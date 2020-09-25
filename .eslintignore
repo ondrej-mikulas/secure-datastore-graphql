@@ -1,0 +1,6 @@
+node_modules/
+dist/
+prisma/
+
+src/generated/
+__tests__/*
